@@ -31,9 +31,9 @@ CALCULATE(
     AVERAGE(Performance[FY20 Performance Rating]),
     Performance[Gender] = "Male")
 #### Visualization
-![First](Screenshot.png)
-<!-- [Drugi]() -->
-<!-- [Treci]()  -->
+![First_page](Hiring&DiversityScreenshot.png)
+![Second_page](Performance&PromotionsScreenshot.png)
+![Third_page](Leavers&TurnoverRateScreenshot.png)
 
 #### Key Takeaways
 1. Commitment to Gender-Neutral Recruitment: The company’s hiring practices demonstrate a strong commitment to gender-neutral recruitment, which should positively impact diversity in promotions over the coming years.
