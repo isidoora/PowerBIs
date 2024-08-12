@@ -26,9 +26,9 @@ And calculated column:
             [Tenure] < 60, "4 - 5 years",
             TRUE(), "> 5 years")
 
-![DataModel]()
+![DataModel](CustomerRetentionModelScreenshot.png)
 #### Visualization
-![Dashboard]()
+![Dashboard](CustomerRetentionScreenshot.png)
 #### Key Takeaways
 - High Churn in First Year: Customers in their first year have the highest churn rates, which gradually decrease over time. Additionally, those using extra services, specifically online security and technical support, experience lower churn. **Suggestion:** Develop an onboarding process for new customers, including welcome calls, educational emails, and early engagement strategies to enhance their experience and reduce churn.
 
