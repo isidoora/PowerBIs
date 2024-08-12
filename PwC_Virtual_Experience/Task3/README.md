@@ -35,6 +35,18 @@ CALCULATE(
 ![Second_page](Performance&PromotionsScreenshot.png)
 ![Third_page](Leavers&TurnoverRateScreenshot.png)
 
+#### Potential Root Causes of slow progress:
+
+Pipeline Issues: There may be a limited pool of diverse candidates for executive roles due to earlier-stage hiring practices or industry norms.
+
+Promotion Barriers: Existing promotion practices might inadvertently favor certain groups, leading to slower advancement for underrepresented employees.
+
+Bias in Performance Evaluations: Unconscious biases in performance reviews could affect the fair assessment of candidates, impacting their promotion opportunities.
+
+Retention Challenges: Underrepresented employees might face challenges that affect their retention, such as a lack of mentorship or supportive networks.
+
+Cultural Factors: The organizational culture might not fully support or encourage diversity, impacting both hiring and career progression for diverse employees.
+
 #### Key Takeaways
 1. Commitment to Gender-Neutral Recruitment: The company’s hiring practices demonstrate a strong commitment to gender-neutral recruitment, which should positively impact diversity in promotions over the coming years.
 2. Lack of Diversity in Certain Departments: Departments such as Sales and Marketing, Strategy, and Internal Services are notably less diverse.
