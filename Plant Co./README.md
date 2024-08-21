@@ -1,1 +1,1 @@
-
+![ReportScreenshot](PlantCo.SalesScreenshot.png)
